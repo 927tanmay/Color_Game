@@ -1,0 +1,80 @@
+body{
+background-color: #232323;
+margin: 0;
+}
+
+#message{
+  color: black;
+  margin: 5%;
+
+}
+
+.on{
+
+  background-color: steelblue;
+}
+
+button:hover{
+  background-color: steelblue;
+  color: white;
+}
+
+#stripe{
+  text-align: center;
+  background-color: white;
+}
+
+#top{
+  width: 100%;
+  height: 30px;
+  padding-bottom: 130px;
+  /* //padding-top: 100px; */
+  background-color: steelblue;
+  text-align: justify;
+}
+
+#select{
+  font-size: 200%;
+
+}
+
+
+h1{
+  text-align: center;
+  color: white;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+button{
+
+  border: none;
+  text-transform: uppercase;
+  background: none;
+  transition: all .3s;
+  outline: none;
+}
+
+
+.square{
+  width: 30%;
+  padding-bottom: 30%;
+  background-color: purple;
+  margin: 1.66%;
+  float: left;
+  border-radius: 20%;
+  transition: background .6s;
+
+}
+
+
+#main{
+  margin:20px auto;
+  max-width: 600px;
+
+}
+
+#stripe{
+
+
+}
